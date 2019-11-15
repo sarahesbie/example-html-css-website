@@ -1,9 +1,8 @@
-# quickstart-site
-A basic website with one HTML file and one CSS file - linked together.
+# Example HTML and CSS Website
 
-## Instructions for local development
-1. Download the package to your local machine
-2. Open the folder in a text editor
-3. Add tags and content to index.html to edit the HTML (content and structure) of your website
-4. Add rulesets to the main.css file to edit the CSS (look and feel) of your website
-5. Add new pages as you like!
+This website is deployed at the following web address: https://dreamy-fermat-d336ab.netlify.com/
+
+## Want to build your own HTML and CSS website?
+
+[Step-by-step tutorial](https://github.com/sarahesbie/esbie-journal/blob/master/building-a-simple-website-with-html-and-css.md}
+Step-by-step tutorial)
