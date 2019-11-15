@@ -1,1 +1,19 @@
 /*Happy Coding!*/
+
+body {
+  background-color: lightpink;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Courier New", Courier, monospace;
+  color: darkmagenta;
+}
+
+img {
+  max-width: 50%;
+}
